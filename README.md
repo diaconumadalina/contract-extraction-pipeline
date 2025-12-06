@@ -114,3 +114,24 @@ contract-extraction-pipeline/
 ## License
 
 MIT
+
+# 📄 Contract Extraction Pipeline
+
+[![Deployment Status](https://img.shields.io/badge/Railway-Active-success)](https://contract-extraction-pipeline-production.up.railway.app)
+![Python](https://img.shields.io/badge/python-3.12-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-live-green)
+![Docker](https://img.shields.io/badge/docker-ready-blue)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-purple)
+
+> Production URL: https://contract-extraction-pipeline-production.up.railway.app
+
+
+## 🚀 Live Demo
+
+API Live (Production):  
+👉 https://contract-extraction-pipeline-production.up.railway.app
+
+Swagger Docs:  
+👉 https://contract-extraction-pipeline-production.up.railway.app/docs
+
+

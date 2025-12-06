@@ -30,3 +30,11 @@ async def extract_pdf(file: UploadFile = File(...)):
 
     result = extractor.extract(text)
     return result.model_dump()
+
+app = FastAPI(
+    title="Contract Extraction API",
+    description="Extracts title, parties, clauses and structured metadata from contracts.",
+    version="1.0.0",
+    docs_url="/docs",
+    redoc_url="/redoc"
+)
