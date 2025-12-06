@@ -1,0 +1,8 @@
+# Example config - NO SECRETS INSIDE
+
+provider = "openai"
+
+[llm]
+model_name = "gpt-4.1"
+temperature = 0.0
+top_p = 1.0

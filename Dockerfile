@@ -6,6 +6,8 @@ WORKDIR /app
 # Copy project files
 COPY . /app
 
+COPY config.example.toml config.toml
+
 # Install system dependencies (if PDF + OCR needed later)
 RUN apt-get update && apt-get install -y \
     poppler-utils \
