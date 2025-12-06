@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4293d7c9-5ee3-4b2d-83a6-967a3cc2612a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extraction/extractor.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/extraction/extractor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extraction/llm_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/extraction/llm_client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/config_loader.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/config_loader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/server/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
