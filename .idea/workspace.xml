@@ -5,63 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4293d7c9-5ee3-4b2d-83a6-967a3cc2612a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/contract-extraction-pipeline.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.python-version" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.example.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/contracts/long_structured_contract.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/contracts/messy_contract.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/contracts/narrative_contract_1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/narrative_contract_3.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/evaluation/results/extracted/extracted_1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/benchmark/benchmark/results/benchmark_results.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/benchmark/benchmark/results/failures.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/benchmark/benchmark/results/latency.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/benchmark/run_benchmark.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/evaluation/evaluator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/evaluation/expected/contract_1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/evaluation/heatmap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/evaluation/metrics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/evaluation/results/extracted/extracted_1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/evaluation/results/heatmap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/evaluation/run_evaluation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/evaluation/run_heatmap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/evaluation/similarity.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extraction/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extraction/extractor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extraction/llm_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extraction/prompts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extraction/retry_handler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extraction/schema.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extraction/validators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loaders/document_loader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loaders/pdf_loader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loaders/txt_loader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pipeline/evaluation/results/extracted/extracted_1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pipeline/extracted_to_json.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pipeline/logs/app.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pipeline/run_pipeline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/preprocess/chunker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/preprocess/normalizer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/preprocess/pipeline_preprocess.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/preprocess/regex_cleaner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/helpers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/logger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uv.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extraction/extractor.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/extraction/extractor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extraction/llm_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/extraction/llm_client.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/utils/config_loader.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/config_loader.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

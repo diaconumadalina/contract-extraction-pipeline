@@ -66,15 +66,17 @@
 
 import os
 
-
 class Settings:
     provider: str = os.getenv("PROVIDER", "openai")
+    model_name: str = os.getenv("MODEL_NAME", "gpt-4.1")
+
     openai_api_key: str | None = os.getenv("OPENAI_API_KEY")
+
     azure_api_key: str | None = os.getenv("AZURE_API_KEY")
     azure_endpoint: str | None = os.getenv("AZURE_ENDPOINT")
     azure_deployment_name: str | None = os.getenv("AZURE_DEPLOYMENT_NAME")
     azure_api_version: str | None = os.getenv("AZURE_API_VERSION")
 
 
-def load_settings(_=None):
+def load_settings(_path=None):
     return Settings()

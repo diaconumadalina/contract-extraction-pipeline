@@ -85,7 +85,8 @@ class ContractExtractor:
             self.settings.provider = provider_override
 
         self.logger = setup_logger("contract_extractor")
-        self.llm = init_llm(self.settings)
+        # self.llm = init_llm(self.settings)
+        self.llm = init_llm()
 
         self.prompt = PromptTemplate.from_template(
             BASE_EXTRACTION_PROMPT + "\n\nContract text:\n{contract_text}"
