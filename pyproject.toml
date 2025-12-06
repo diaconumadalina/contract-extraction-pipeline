@@ -1,0 +1,20 @@
+[project]
+name = "contract-extraction-pipeline"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "azure-ai-openai>=11.0.2",
+    "fastapi>=0.123.10",
+    "langchain-community>=0.4.1",
+    "langchain-core>=1.1.1",
+    "langchain-openai>=1.1.0",
+    "openai<2.0",
+    "pandas>=2.3.3",
+    "pdfplumber>=0.11.8",
+    "pydantic>=2.12.5",
+    "python-multipart>=0.0.20",
+    "toml>=0.10.2",
+    "uvicorn>=0.38.0",
+]

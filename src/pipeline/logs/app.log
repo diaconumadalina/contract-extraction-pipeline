@@ -1,0 +1,209 @@
+2025-12-03 21:33:38,584 - contract_extractor - INFO - Starting extraction...
+2025-12-03 21:35:56,231 - contract_extractor - INFO - Starting extraction...
+2025-12-03 21:37:07,557 - contract_extractor - INFO - Starting extraction...
+2025-12-03 21:37:09,452 - contract_extractor - INFO - Raw response: {
+  "contract_title": "IT Services Agreement",
+  "buyer": "City Council of Springfield",
+  "supplier": "TechNova Solutions",
+  "contract_value": "$185,000",
+  "start_date": "2024-01-01",
+  "end_date": "2024-12-31"
+}
+2025-12-03 21:38:39,577 - contract_extractor - INFO - Starting extraction...
+2025-12-03 21:38:41,298 - contract_extractor - INFO - Raw response: {
+  "contract_title": "IT Services Agreement",
+  "buyer": "City Council of Springfield",
+  "supplier": "TechNova Solutions",
+  "contract_value": "$185,000",
+  "start_date": "2024-01-01",
+  "end_date": "2024-12-31"
+}
+2025-12-03 21:40:11,737 - contract_extractor - INFO - Starting extraction...
+2025-12-03 21:40:13,474 - contract_extractor - INFO - Raw response: {
+  "contract_title": "IT Services Agreement",
+  "buyer": "City Council of Springfield",
+  "supplier": "TechNova Solutions",
+  "contract_value": "$185,000",
+  "start_date": "2024-01-01",
+  "end_date": "2024-12-31"
+}
+2025-12-03 21:41:04,647 - contract_extractor - INFO - Starting extraction...
+2025-12-03 21:41:06,491 - contract_extractor - INFO - Raw response: {
+  "contract_title": "IT Services Agreement",
+  "buyer": "City Council of Springfield",
+  "supplier": "TechNova Solutions",
+  "contract_value": "$185,000",
+  "start_date": "2024-01-01",
+  "end_date": "2024-12-31"
+}
+2025-12-03 21:41:32,962 - contract_extractor - INFO - Starting extraction...
+2025-12-03 21:41:34,565 - contract_extractor - INFO - Raw response: {
+  "contract_title": "IT Services Agreement",
+  "buyer": "City Council of Springfield",
+  "supplier": "TechNova Solutions",
+  "contract_value": "$185,000",
+  "start_date": "2024-01-01",
+  "end_date": "2024-12-31"
+}
+2025-12-03 22:02:56,735 - contract_extractor - INFO - Starting extraction...
+2025-12-03 22:02:58,382 - contract_extractor - INFO - Raw response: {
+  "contract_title": "IT Services Agreement",
+  "buyer": "City Council of Springfield",
+  "supplier": "TechNova Solutions",
+  "contract_value": "$185,000",
+  "start_date": "2024-01-01",
+  "end_date": "2024-12-31"
+}
+2025-12-03 22:03:57,980 - contract_extractor - INFO - Starting extraction...
+2025-12-03 22:03:59,762 - contract_extractor - INFO - Raw response: {
+  "contract_title": "IT Services Agreement",
+  "buyer": "City Council of Springfield",
+  "supplier": "TechNova Solutions",
+  "contract_value": "$185,000",
+  "start_date": "2024-01-01",
+  "end_date": "2024-12-31"
+}
+2025-12-03 22:05:44,496 - contract_extractor - INFO - Starting extraction...
+2025-12-03 22:05:46,451 - contract_extractor - INFO - Raw response: {
+  "contract_title": "IT Services Agreement",
+  "buyer": "City Council of Springfield",
+  "supplier": "TechNova Solutions",
+  "contract_value": "$185,000",
+  "start_date": "2024-01-01",
+  "end_date": "2024-12-31"
+}
+2025-12-06 09:33:23,800 - contract_extractor - INFO - Starting extraction...
+2025-12-06 09:33:26,320 - contract_extractor - INFO - Raw response: {
+  "contract_title": null,
+  "buyer": null,
+  "supplier": null,
+  "contract_value": null,
+  "start_date": null,
+  "end_date": null
+}
+2025-12-06 09:33:26,322 - contract_extractor - INFO - Starting extraction...
+2025-12-06 09:33:28,753 - contract_extractor - INFO - Raw response: {
+  "contract_title": null,
+  "buyer": null,
+  "supplier": null,
+  "contract_value": null,
+  "start_date": null,
+  "end_date": null
+}
+2025-12-06 09:33:28,753 - contract_extractor - INFO - Starting extraction...
+2025-12-06 09:33:30,426 - contract_extractor - INFO - Raw response: {
+  "contract_title": null,
+  "buyer": null,
+  "supplier": null,
+  "contract_value": null,
+  "start_date": null,
+  "end_date": null
+}
+2025-12-06 09:33:30,948 - contract_extractor - INFO - Starting extraction...
+2025-12-06 09:33:33,295 - contract_extractor - INFO - Raw response: {
+  "contract_title": null,
+  "buyer": null,
+  "supplier": null,
+  "contract_value": null,
+  "start_date": null,
+  "end_date": null
+}
+2025-12-06 09:33:33,295 - contract_extractor - INFO - Starting extraction...
+2025-12-06 09:33:34,164 - contract_extractor - INFO - Raw response: {
+  "contract_title": null,
+  "buyer": null,
+  "supplier": null,
+  "contract_value": null,
+  "start_date": null,
+  "end_date": null
+}
+2025-12-06 09:33:34,164 - contract_extractor - INFO - Starting extraction...
+2025-12-06 09:33:34,971 - contract_extractor - INFO - Raw response: {
+  "contract_title": null,
+  "buyer": null,
+  "supplier": null,
+  "contract_value": null,
+  "start_date": null,
+  "end_date": null
+}
+2025-12-06 10:02:18,952 - contract_extractor - INFO - Starting extraction...
+2025-12-06 10:02:20,536 - contract_extractor - INFO - Raw response: {
+  "contract_title": "IT Services Agreement",
+  "buyer": "City Council of Springfield",
+  "supplier": "TechNova Solutions",
+  "contract_value": "$185,000",
+  "start_date": "2024-01-01",
+  "end_date": "2024-12-31"
+}
+2025-12-06 10:04:43,852 - contract_extractor - INFO - Starting extraction...
+2025-12-06 10:04:45,435 - contract_extractor - INFO - Raw response: {
+  "contract_title": "IT Services Agreement",
+  "buyer": "City Council of Springfield",
+  "supplier": "TechNova Solutions",
+  "contract_value": "$185,000",
+  "start_date": "2024-01-01",
+  "end_date": "2024-12-31"
+}
+2025-12-06 10:04:48,059 - contract_extractor - INFO - Starting extraction...
+2025-12-06 10:04:49,124 - contract_extractor - INFO - Raw response: {
+  "contract_title": "IT Services Agreement",
+  "buyer": "City Council of Springfield",
+  "supplier": "TechNova Solutions",
+  "contract_value": "$185,000",
+  "start_date": "2024-01-01",
+  "end_date": "2024-12-31"
+}
+2025-12-06 10:07:20,437 - contract_extractor - INFO - Starting extraction...
+2025-12-06 10:07:25,522 - contract_extractor - INFO - Raw response: {
+  "contract_title": "IT Services Agreement",
+  "buyer": "City Council of Springfield",
+  "supplier": "TechNova Solutions",
+  "contract_value": "$185,000",
+  "start_date": "2024-01-01",
+  "end_date": "2024-12-31"
+}
+2025-12-06 10:16:42,930 - contract_extractor - INFO - Starting extraction...
+2025-12-06 10:16:44,890 - contract_extractor - INFO - Raw response: {
+  "contract_title": "IT Services Agreement",
+  "buyer": "City Council of Springfield",
+  "supplier": "TechNova Solutions",
+  "contract_value": "$185,000",
+  "start_date": "2024-01-01",
+  "end_date": "2024-12-31"
+}
+2025-12-06 10:21:45,372 - contract_extractor - INFO - Starting extraction...
+2025-12-06 10:21:47,145 - contract_extractor - INFO - Raw response: {
+  "contract_title": "IT agreement",
+  "buyer": "City Council of Springfield",
+  "supplier": "TechNova Solutions",
+  "contract_value": "185000",
+  "start_date": "2024-01-01",
+  "end_date": "2024-12-31"
+}
+2025-12-06 10:21:50,602 - contract_extractor - INFO - Starting extraction...
+2025-12-06 10:21:51,753 - contract_extractor - INFO - Raw response: {
+  "contract_title": "IT agreement",
+  "buyer": "City Council of Springfield",
+  "supplier": "TechNova Solutions",
+  "contract_value": "185000",
+  "start_date": "2024-01-01",
+  "end_date": "2024-12-31"
+}
+2025-12-06 10:21:52,803 - contract_extractor - INFO - Starting extraction...
+2025-12-06 10:21:54,278 - contract_extractor - INFO - Raw response: {
+  "contract_title": "IT agreement",
+  "buyer": "City Council of Springfield",
+  "supplier": "TechNova Solutions",
+  "contract_value": "185000",
+  "start_date": "2024-01-01",
+  "end_date": "2024-12-31"
+}
+2025-12-06 08:35:37,581 - contract_extractor - INFO - Starting extraction...
+2025-12-06 08:35:44,666 - contract_extractor - INFO - Raw response: {
+  "contract_title": "IT agreement",
+  "buyer": "City Council of Springfield",
+  "supplier": "TechNova Solutions",
+  "contract_value": "185000",
+  "start_date": "2024-01-01",
+  "end_date": "2024-12-31"
+}
